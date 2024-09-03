@@ -2,7 +2,7 @@
 
 echo "# fork와 exec: 프로세스의 분신과 변신 데모"
 echo
-
+ 
 # 현재 프로세스 정보 출력 함수
 show_process_info() {
     echo "프로세스 정보:"
